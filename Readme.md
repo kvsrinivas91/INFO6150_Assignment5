@@ -1,12 +1,14 @@
-card
-collapse
-tooltip
-badge
-list group
-alerts
-form-group
-navbar
-dropdown
-button
+#Assignment 5
 
-Used Device compatibility like lg, md etc.
+> card
+> collapse
+> tooltip
+> badge
+> list group
+> alerts
+> form-group
+> navbar
+> dropdown
+> button
+
+> Used Device compatibility like lg, md etc.
